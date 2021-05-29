@@ -1,4 +1,4 @@
-# porcoRosso :pig::airplane:
+# porcorosso :pig::airplane:
 
 Porco Rosso themed functions. 
 
@@ -12,7 +12,7 @@ git clone https://github.com/Yuricst/porcoRosso.git
 ### Basic usage
 
 ```python
-import porcoRosso as pr
+import porcorosso as pr
 intro = pr.introduction("JPN")
 pr.printrosso(intro)
 ```
