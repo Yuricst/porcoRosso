@@ -40,7 +40,7 @@ def introduction(language="JPN"):
 	return intro_dict[language]
 
 
-def printrosso(string, rowlength=16, keep=5, sleep=0.12, remove_sleep=0.08, newline_sleep=0.1):
+def printrosso(string, rowlength=16, keep=5, sleep=0.12, remove_sleep=0.08, newline_sleep=0.1, newline_end=True):
 	"""Display string in Porco Rosso opening scene style
 
 	Args:
@@ -95,6 +95,9 @@ def printrosso(string, rowlength=16, keep=5, sleep=0.12, remove_sleep=0.08, newl
 
 		# update index of rows printed
 		idx_row += 1
+	# go to new line
+	if newline_end==True:
+		print("\n")
 
 
 # run function

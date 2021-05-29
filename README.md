@@ -17,3 +17,4 @@ intro = pr.introduction("JPN")
 printrosso(intro)
 ```
 
+<img src="./etc/porco_intro_demo.gif" width="40" height="40" />
