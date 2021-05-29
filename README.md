@@ -1,6 +1,6 @@
 # porcoRosso :pig::airplane:
 
-Porco-Rosso themed functions. 
+Porco Rosso themed functions. 
 
 
 ### Installation
