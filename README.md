@@ -20,7 +20,7 @@ pr.printrosso(intro)
 or from terminal (not conda terminal!)
 
 ```bash
-$ python procoRosso.py
+$ python procorosso.py
 ```
 
 <img src="./etc/porco_intro_demo.gif" width="590" height="190" />
