@@ -6,7 +6,7 @@ Porco-Rosso themed functions.
 ### Installation
 
 ```bash
-git clone LINK
+git clone https://github.com/Yuricst/porcoRosso.git
 ```
 
 ### Basic usage
