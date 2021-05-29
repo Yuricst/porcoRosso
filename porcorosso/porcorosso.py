@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Porco Rosso themed functions
-
-Yuri, 2021/05/27
+@Yuricst
 """
 
 import time
