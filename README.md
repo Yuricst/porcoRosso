@@ -1,4 +1,4 @@
-# porcoRosso
+# porcoRosso :pig::airplane:
 
 Porco-Rosso themed functions. 
 
